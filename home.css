@@ -1,0 +1,554 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-frame1 {
+  width: 100%;
+  height: 3001px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.home-frame11 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1280px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.home-switzerland1 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1280px;
+  position: absolute;
+  border-color: transparent;
+}
+.home-link {
+  display: contents;
+}
+.home-shvejtsariyaotkryitievaktsinirovannyie1 {
+  top: 1020px;
+  left: 698px;
+  width: 376px;
+  height: 200px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.home-text {
+  top: 1146px;
+  left: 718px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-link01 {
+  display: contents;
+}
+.home-i-m-a-g-e17541439690161307118881920x0800096a017b08abe8 {
+  top: 1020px;
+  left: 1104px;
+  width: 356px;
+  height: 200px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.home-text05 {
+  top: 1146px;
+  left: 1124px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-link02 {
+  display: contents;
+}
+.home-i-m-a-g-e1612279001 {
+  top: 1020px;
+  left: 1490px;
+  width: 310px;
+  height: 200px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.home-text10 {
+  top: 1146px;
+  left: 1510px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text15 {
+  top: 287px;
+  left: 120px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text20 {
+  top: 99px;
+  left: 120px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-link03 {
+  display: contents;
+}
+.home-icon-you-tube1 {
+  top: 1157px;
+  left: 120px;
+  width: 70px;
+  height: 55px;
+  position: absolute;
+  text-decoration: none;
+}
+.home-link04 {
+  display: contents;
+}
+.home-icon-v-k1 {
+  top: 1157px;
+  left: 220px;
+  width: 70px;
+  height: 55px;
+  position: absolute;
+  text-decoration: none;
+}
+.home-switzerland2 {
+  top: 0px;
+  left: 168px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.home-group {
+  top: 8.434497833251953px;
+  left: 12.977545738220215px;
+  width: 74.04438781738281px;
+  height: 83.13119506835938px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.home-vector {
+  top: 0px;
+  left: 0px;
+  width: 74px;
+  height: 83px;
+  position: absolute;
+}
+.home-vector1 {
+  top: 9.941585540771484px;
+  left: 7.456059455871582px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.home-frame2 {
+  top: 1440px;
+  left: 217px;
+  width: 1486px;
+  height: 500px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.home-text25 {
+  top: 42px;
+  left: 850px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text30 {
+  top: 184px;
+  left: 850px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 33px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-link05 {
+  display: contents;
+}
+.home-rectangle2 {
+  top: 379px;
+  left: 850px;
+  width: 236px;
+  height: 80px;
+  position: absolute;
+  border-color: rgba(0, 86, 215, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 40px;
+  text-decoration: none;
+}
+.home-text41 {
+  left: 903px;
+  color: rgba(0, 71, 255, 1);
+  bottom: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 33px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-link06 {
+  display: contents;
+}
+.home-i-m-a-g-e11the-gornergrat-railwaye15190147122521 {
+  top: 0px;
+  left: 0px;
+  width: 750px;
+  height: 500px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.home-text43 {
+  top: 402px;
+  left: 60px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 29px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-frame3 {
+  top: 2100px;
+  left: 0px;
+  width: 1920px;
+  height: 518px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: center;
+  background-color: transparent;
+}
+.home-img-form1 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 518px;
+  position: absolute;
+  border-color: transparent;
+}
+.home-text48 {
+  top: 40px;
+  left: 878px;
+  margin: auto;
+  position: absolute;
+}
+.home-text49 {
+  font-size: 30px;
+}
+.home-link07 {
+  display: contents;
+}
+.home-viberbig {
+  left: 0px;
+  right: 0px;
+  width: 360px;
+  bottom: 57px;
+  height: var(--dl-size-size-small);
+  margin: auto;
+  position: absolute;
+  text-decoration: none;
+}
+.home-link08 {
+  display: contents;
+}
+.home-telegrambig {
+  top: 331px;
+  left: 0px;
+  right: 0px;
+  width: 360px;
+  height: var(--dl-size-size-small);
+  margin: auto;
+  position: absolute;
+  text-decoration: none;
+}
+.home-link09 {
+  display: contents;
+}
+.home-whats-appbig {
+  top: 249px;
+  left: 0px;
+  right: 0px;
+  width: 360px;
+  height: var(--dl-size-size-small);
+  margin: auto;
+  position: absolute;
+  text-decoration: none;
+}
+.home-frame {
+  top: 2778px;
+  left: 0px;
+  width: 1920px;
+  height: 223px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(230, 231, 236, 1);
+}
+.home-switzerland21 {
+  top: 83px;
+  left: 142px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.home-group1 {
+  top: 8.434497833251953px;
+  left: 12.977545738220215px;
+  width: 74.04438781738281px;
+  height: 83.13119506835938px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.home-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 74px;
+  height: 83px;
+  position: absolute;
+}
+.home-vector3 {
+  top: 9.941585540771484px;
+  left: 7.456059455871582px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.home-link10 {
+  display: contents;
+}
+.home-icon-you-tube11 {
+  top: 128px;
+  left: 1703px;
+  width: 50px;
+  height: 35px;
+  position: absolute;
+  text-decoration: none;
+}
+.home-link11 {
+  display: contents;
+}
+.home-icon-v-k11 {
+  top: 128px;
+  left: 1788px;
+  width: 50px;
+  height: 35px;
+  position: absolute;
+  text-decoration: none;
+}
+.home-text51 {
+  top: 133px;
+  left: 295px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text56 {
+  top: 133px;
+  left: 518px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
